@@ -1,6 +1,6 @@
-# MAL Rank Simple
+# MAL Ranker
 
-A simple Laravel + React application.
+This application uses the MyAnimeList API to retrieve a user's anime list and then provides options for them to rank certain animes on their list. It will then keep track of this and return a ranked listing based on their selections.
 
 ## Setup
 
